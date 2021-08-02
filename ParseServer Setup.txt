@@ -1,0 +1,10 @@
+The command cd apps/parse/htdocs/server.js probaly won't work use this command instead:
+
+sudo nano /opt/bitnami/parse/config.json.
+
+or
+
+cd /opt/bitnami/parse
+
+then vi config.json
+
